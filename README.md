@@ -557,3 +557,9 @@ REDIS_URL=redis://127.0.0.1:6380/0
 - `local_launcher/launcher_config.json`
 - `local_launcher/launcher_logs/`
 - `local_launcher/.playwright-mcp/`
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。
+
+Copyright (c) 2026 yuan-ww
